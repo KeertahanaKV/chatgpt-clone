@@ -26,7 +26,7 @@ A ChatGPT UI clone built using React and Material UI.
 
 ![ChatGPT UI](./Screenshots/home.png)
 ![ChatGPT UI](./Screenshots/sidebar%20toggle.png)
-![ChatGPT UI](./Screenshots/sidebar%20toggle.png)
+![ChatGPT UI](./Screenshots/chat%20history.png)
 
 ---
 
